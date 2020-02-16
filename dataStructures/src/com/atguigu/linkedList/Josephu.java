@@ -1,6 +1,4 @@
-package src.com.atguigu.linkedList;
-
-import com.sun.org.apache.bcel.internal.classfile.SourceFile;
+package com.atguigu.linkedList;
 
 /**
  * @Author: adventureBean

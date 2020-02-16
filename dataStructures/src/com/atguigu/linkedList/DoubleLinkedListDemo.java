@@ -1,4 +1,4 @@
-package src.com.atguigu.linkedList;
+package com.atguigu.linkedList;
 
 /**
  * @Author: adventureBean

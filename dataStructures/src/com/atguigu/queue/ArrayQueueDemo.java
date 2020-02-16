@@ -1,4 +1,4 @@
-package src.com.atguigu.queue;
+package com.atguigu.queue;
 
 import java.util.Scanner;
 

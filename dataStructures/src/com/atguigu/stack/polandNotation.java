@@ -1,4 +1,4 @@
-package src.com.atguigu.stack;
+package com.atguigu.stack;
 
 import java.util.ArrayList;
 import java.util.List;

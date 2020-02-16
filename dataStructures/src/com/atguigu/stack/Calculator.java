@@ -1,4 +1,4 @@
-package src.com.atguigu.stack;
+package com.atguigu.stack;
 
 /**
  * @Author: adventureBean

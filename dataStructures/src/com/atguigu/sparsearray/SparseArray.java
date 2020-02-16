@@ -1,4 +1,4 @@
-package src.com.atguigu.sparsearray;
+package com.atguigu.sparsearray;
 
 import org.junit.Test;
 
