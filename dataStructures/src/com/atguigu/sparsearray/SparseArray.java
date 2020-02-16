@@ -1,7 +1,5 @@
 package com.atguigu.sparsearray;
 
-import org.junit.Test;
-
 import java.io.*;
 
 /**
@@ -10,8 +8,8 @@ import java.io.*;
  */
 public class SparseArray {
 
-    @Test
-    public void test() {
+    public static void main(String[] args) {
+
         //创建一个原的二维数组 11*11
         //0：表示没有棋子，1表示黑子 2表示蓝子
         int[][] chessArr1 = new int[11][11];
