@@ -1,4 +1,4 @@
-package com.atguigu.stack;
+package com.atguigu.dataStructures.stack;
 
 
 import java.util.Scanner;

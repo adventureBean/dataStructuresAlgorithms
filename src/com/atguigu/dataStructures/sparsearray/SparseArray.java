@@ -1,4 +1,4 @@
-package com.atguigu.sparsearray;
+package com.atguigu.dataStructures.sparsearray;
 
 import java.io.*;
 

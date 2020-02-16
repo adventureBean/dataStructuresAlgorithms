@@ -1,4 +1,4 @@
-package com.atguigu.queue;
+package com.atguigu.dataStructures.queue;
 
 
 import java.util.Scanner;
