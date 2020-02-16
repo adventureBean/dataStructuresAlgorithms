@@ -1,4 +1,4 @@
-package com.atguigu.reversepolishcal;
+package com.atguigu.dataStructures.reversepolishcal;
 
 import java.util.ArrayList;
 import java.util.Collections;
