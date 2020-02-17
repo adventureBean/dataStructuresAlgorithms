@@ -11,7 +11,7 @@ public class SelectSort {
 
     public static void main(String[] args) {
 
-        //测试冒泡排序的速度,给80000个随机数
+        //测试选择排序的速度,给80000个随机数
         int[] arr = new int[80000];
         for (int i = 0; i < 80000; i++) {
             arr[i] = (int) (Math.random() * 999999);
