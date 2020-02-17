@@ -11,14 +11,13 @@ public class SelectSort {
 
     public static void main(String[] args) {
 
-
         //测试冒泡排序的速度,给80000个随机数
         int[] arr = new int[80000];
         for (int i = 0; i < 80000; i++) {
             arr[i] = (int) (Math.random() * 999999);
         }
 
-        DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss");
+        DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss:SSS");
         String date1 = formatter1.format(LocalDateTime.now());
         System.out.println("排序前:" + date1);
 
